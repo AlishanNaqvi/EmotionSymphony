@@ -1,0 +1,24 @@
+{
+  "name": "emotion-symphony",
+  "version": "1.0.0",
+  "description": "AI-Powered Real-Time Emotion-Driven Music Generator",
+  "main": "web/index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server web/"
+  },
+  "keywords": [
+    "machine-learning",
+    "music-generation",
+    "emotion-detection",
+    "tensorflow",
+    "web-audio",
+    "ai",
+    "computer-vision"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
